@@ -22,12 +22,12 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Contributors](https://img.shields.io/github/contributors/dixiatielu/Minecraft-Mod-Better-Cat.svg?style=flat-square)](https://github.com/dixiatielu/Minecraft-Mod-Better-Cat/graphs/contributors)
+[![Forks](https://img.shields.io/github/forks/dixiatielu/Minecraft-Mod-Better-Cat.svg?style=flat-square)](https://github.com/dixiatielu/Minecraft-Mod-Better-Cat/network/members)
+[![Stargazers](https://img.shields.io/github/stars/dixiatielu/Minecraft-Mod-Better-Cat.svg?style=flat-square)](https://github.com/dixiatielu/Minecraft-Mod-Better-Cat/stargazers)
+[![Issues](https://img.shields.io/github/issues/dixiatielu/Minecraft-Mod-Better-Cat.svg?style=flat-square)](https://github.com/dixiatielu/Minecraft-Mod-Better-Cat/issues)
+[![MIT License](https://img.shields.io/github/license/dixiatielu/Minecraft-Mod-Better-Cat.svg?style=flat-square)](https://github.com/dixiatielu/Minecraft-Mod-Better-Cat/blob/master/LICENSE.txt)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://linkedin.com/in/dixiatielu)
 
 
 
@@ -76,7 +76,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/dixiatielu/Minecraft-Mod-Better-Cat)
+[![Product Name Screen Shot][images/screenshot.png]](https://github.com/dixiatielu/Minecraft-Mod-Better-Cat)
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
@@ -164,7 +164,7 @@ Project Link: [https://github.com/dixiatielu/Minecraft-Mod-Better-Cat](https://g
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/dixiatielu/Minecraft-Mod-Better-Cat.svg?style=flat-square
+<!-- [contributors-shield]: https://img.shields.io/github/contributors/dixiatielu/Minecraft-Mod-Better-Cat.svg?style=flat-square
 [contributors-url]: https://github.com/dixiatielu/Minecraft-Mod-Better-Cat/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/dixiatielu/Minecraft-Mod-Better-Cat.svg?style=flat-square
 [forks-url]: https://github.com/dixiatielu/Minecraft-Mod-Better-Cat/network/members
@@ -176,4 +176,4 @@ Project Link: [https://github.com/dixiatielu/Minecraft-Mod-Better-Cat](https://g
 [license-url]: https://github.com/dixiatielu/Minecraft-Mod-Better-Cat/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/dixiatielu
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/screenshot.png -->
