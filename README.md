@@ -22,7 +22,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-# This repository is outdated! Go to [the newest repo] instead!
+# This repository is outdated! Go to [the newest repo](https://github.com/dixiatielu/Minecraft-Mod-Better-Cat) instead!
 [![Contributors](https://img.shields.io/github/contributors/dixiatielu/Minecraft-Mod-Better-Cat.svg?style=flat-square)](https://github.com/dixiatielu/Minecraft-Mod-Better-Cat/graphs/contributors)
 [![Forks](https://img.shields.io/github/forks/dixiatielu/Minecraft-Mod-Better-Cat.svg?style=flat-square)](https://github.com/dixiatielu/Minecraft-Mod-Better-Cat/network/members)
 [![Stargazers](https://img.shields.io/github/stars/dixiatielu/Minecraft-Mod-Better-Cat.svg?style=flat-square)](https://github.com/dixiatielu/Minecraft-Mod-Better-Cat/stargazers)
