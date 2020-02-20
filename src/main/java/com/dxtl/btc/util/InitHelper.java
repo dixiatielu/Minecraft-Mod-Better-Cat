@@ -18,10 +18,11 @@ public class InitHelper {
     public static void itemModelRegistry(Item item) {
         Main.proxy.registeryModel(item, 0, "inventory");
     }
-    public static void blockInit(Block block, String name, CreativeTabs tab) {
+    public static void blockInit(Block block, String name, CreativeTabs tab, float hardness) {
         block.setUnlocalizedName(name);
         block.setRegistryName(name);
         block.setCreativeTab(tab);
+        block.setHardness(hardness);
         ModItems.ITEMS.add(new ItemBlock(block).setRegistryName(block.getRegistryName()));
         ModBlocks.BLOCKS.add(block);
     }
