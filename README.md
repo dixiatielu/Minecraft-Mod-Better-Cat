@@ -22,7 +22,9 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-# This repository is outdated! Go to [the newest repo](https://github.com/dixiatielu/Minecraft-Mod-Better-Cat) instead!
+# This repository is outdated! Go to [the newest repository](https://github.com/dixiatielu/Minecraft-Mod-Better-Cat-newest) instead!
+# This repository is outdated! Go to [the newest repository](https://github.com/dixiatielu/Minecraft-Mod-Better-Cat-newest) instead!
+# This repository is outdated! Go to [the newest repository](https://github.com/dixiatielu/Minecraft-Mod-Better-Cat-newest) instead!
 [![Contributors](https://img.shields.io/github/contributors/dixiatielu/Minecraft-Mod-Better-Cat.svg?style=flat-square)](https://github.com/dixiatielu/Minecraft-Mod-Better-Cat/graphs/contributors)
 [![Forks](https://img.shields.io/github/forks/dixiatielu/Minecraft-Mod-Better-Cat.svg?style=flat-square)](https://github.com/dixiatielu/Minecraft-Mod-Better-Cat/network/members)
 [![Stargazers](https://img.shields.io/github/stars/dixiatielu/Minecraft-Mod-Better-Cat.svg?style=flat-square)](https://github.com/dixiatielu/Minecraft-Mod-Better-Cat/stargazers)
@@ -36,7 +38,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/dixiatielu/Minecraft-Mod-Better-Cat">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://raw.githubusercontent.com/dixiatielu/Minecraft-Mod-Better-Cat-newest/master/images/%E8%B1%B9%E7%8C%ABlogo.gif" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Better Cat</h3>
